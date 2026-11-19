@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 390" width="680" height="390" font-family="Inter, 'Segoe UI', Arial, sans-serif">
+  <defs>
+    <marker id="seta" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#5f5f5a"/>
+    </marker>
+    <marker id="setaVerde" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2f5d3a"/>
+    </marker>
+  </defs>
+  <rect width="680" height="390" fill="#ffffff"/>
+
+  <!-- Grupo: Agricultor -->
+  <text x="170" y="16" font-size="9" font-weight="600" letter-spacing="1.4" fill="#5f5f5a">AGRICULTOR</text>
+  <rect x="170" y="24" width="150" height="50" rx="3" fill="#ffffff" stroke="#8a8a84" stroke-dasharray="5 4"/>
+  <text x="245" y="46" font-size="12" font-weight="600" fill="#1c1c1a" text-anchor="middle">WhatsApp</text>
+  <text x="245" y="62" font-size="10" fill="#5f5f5a" text-anchor="middle">texto, áudio e foto</text>
+  <rect x="350" y="24" width="150" height="50" rx="3" fill="#ffffff" stroke="#4a4a46"/>
+  <text x="425" y="46" font-size="12" font-weight="600" fill="#1c1c1a" text-anchor="middle">App web</text>
+  <text x="425" y="62" font-size="10" fill="#5f5f5a" text-anchor="middle">protótipo em Gradio</text>
+
+  <!-- Agricultor -> Núcleo -->
+  <line x1="245" y1="74" x2="245" y2="138" stroke="#8a8a84" stroke-width="1.3" stroke-dasharray="5 4" marker-end="url(#seta)"/>
+  <text x="237" y="110" font-size="9.5" fill="#5f5f5a" text-anchor="end">API (futuro)</text>
+  <line x1="425" y1="74" x2="425" y2="138" stroke="#4a4a46" stroke-width="1.3" marker-end="url(#seta)"/>
+  <text x="433" y="110" font-size="9.5" fill="#5f5f5a">uso atual</text>
+
+  <!-- Núcleo -->
+  <rect x="200" y="140" width="270" height="150" rx="4" fill="#f3f6f2" stroke="#2f5d3a" stroke-width="1.8"/>
+  <text x="335" y="166" font-size="9" font-weight="600" letter-spacing="1.4" fill="#2f5d3a" text-anchor="middle">ESTA ENTREGA</text>
+  <text x="335" y="190" font-size="15" font-weight="600" fill="#1c1c1a" text-anchor="middle">Núcleo Fala, Lavoura!</text>
+  <text x="335" y="214" font-size="10.5" fill="#3d3d39" text-anchor="middle">agente · RAG híbrido · guardrails · fiscal</text>
+  <text x="335" y="246" font-size="10" fill="#1c1c1a" text-anchor="middle" font-family="Consolas, monospace">FalaLavoura.perguntar()</text>
+  <text x="335" y="264" font-size="10" fill="#1c1c1a" text-anchor="middle" font-family="Consolas, monospace">FalaLavoura.carta_da_semana()</text>
+
+  <!-- Fontes de dados (esquerda) -->
+  <text x="20" y="136" font-size="9" font-weight="600" letter-spacing="1.4" fill="#5f5f5a">DADOS</text>
+  <rect x="20" y="144" width="130" height="34" rx="3" fill="#ffffff" stroke="#4a4a46"/>
+  <text x="85" y="165" font-size="11" fill="#1c1c1a" text-anchor="middle">Open-Meteo</text>
+  <rect x="20" y="198" width="130" height="34" rx="3" fill="#ffffff" stroke="#8a8a84" stroke-dasharray="5 4"/>
+  <text x="85" y="219" font-size="11" fill="#1c1c1a" text-anchor="middle">Sensor de umidade</text>
+  <rect x="20" y="252" width="130" height="34" rx="3" fill="#ffffff" stroke="#4a4a46"/>
+  <text x="85" y="273" font-size="11" fill="#1c1c1a" text-anchor="middle">Fichas técnicas</text>
+
+  <line x1="150" y1="161" x2="198" y2="161" stroke="#4a4a46" stroke-width="1.3" marker-end="url(#seta)"/>
+  <text x="174" y="155" font-size="8.5" fill="#5f5f5a" text-anchor="middle">clima</text>
+  <line x1="150" y1="215" x2="198" y2="215" stroke="#8a8a84" stroke-width="1.3" stroke-dasharray="5 4" marker-end="url(#seta)"/>
+  <text x="174" y="209" font-size="8.5" fill="#5f5f5a" text-anchor="middle">futuro</text>
+  <line x1="150" y1="269" x2="198" y2="269" stroke="#4a4a46" stroke-width="1.3" marker-end="url(#seta)"/>
+  <text x="174" y="263" font-size="8.5" fill="#5f5f5a" text-anchor="middle">trechos</text>
+
+  <!-- Técnico (direita) -->
+  <text x="530" y="182" font-size="9" font-weight="600" letter-spacing="1.4" fill="#5f5f5a">EMATER · COOPERATIVA</text>
+  <rect x="530" y="190" width="130" height="50" rx="3" fill="#ffffff" stroke="#4a4a46"/>
+  <text x="595" y="212" font-size="12" font-weight="600" fill="#1c1c1a" text-anchor="middle">Painel do técnico</text>
+  <text x="595" y="228" font-size="10" fill="#5f5f5a" text-anchor="middle">valida os casos</text>
+  <line x1="470" y1="215" x2="528" y2="215" stroke="#2f5d3a" stroke-width="1.5" marker-end="url(#setaVerde)"/>
+  <text x="499" y="207" font-size="8.5" fill="#2f5d3a" text-anchor="middle">fila</text>
+
+  <!-- Ciclo de melhoria: painel -> fichas -->
+  <polyline points="595,240 595,326 85,326 85,288" fill="none" stroke="#8a8a84" stroke-width="1.3" stroke-dasharray="5 4" marker-end="url(#seta)"/>
+  <rect x="236" y="318" width="210" height="16" fill="#ffffff"/>
+  <text x="341" y="330" font-size="9.5" fill="#5f5f5a" text-anchor="middle">resposta validada vira nova ficha</text>
+
+  <!-- Legenda -->
+  <line x1="20" y1="368" x2="48" y2="368" stroke="#4a4a46" stroke-width="1.3"/>
+  <text x="54" y="371" font-size="9" fill="#5f5f5a">implementado</text>
+  <line x1="140" y1="368" x2="168" y2="368" stroke="#8a8a84" stroke-width="1.3" stroke-dasharray="5 4"/>
+  <text x="174" y="371" font-size="9" fill="#5f5f5a">evolução futura</text>
+</svg>

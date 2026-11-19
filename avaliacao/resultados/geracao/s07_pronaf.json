@@ -1,0 +1,90 @@
+{
+ "cenario": {
+  "id": "s07_pronaf",
+  "categoria": "política pública",
+  "rapido": false,
+  "perfil": {
+   "cidade": "Campinas, SP",
+   "cultura": "Tomate",
+   "dias": 20,
+   "area_m2": 200,
+   "sistema": "Gotejamento"
+  },
+  "pergunta": "Como eu consigo o dinheiro do Pronaf pra fazer uma estufa?",
+  "deve": [
+   "citar a necessidade do CAF",
+   "indicar banco/cooperativa e a ajuda da Emater"
+  ],
+  "nao_deve": [
+   "inventar taxa de juros, limite ou valor específico"
+  ]
+ },
+ "fala_lavoura": {
+  "resposta": "**A lavoura diz:** Agricultor, para conseguir esse recurso para a minha estufa, a sua roça precisa estar com o cadastro em dia. O Pronaf é o caminho para esse investimento, mas ele exige alguns passos importantes antes de liberar o dinheiro. [politicas_publicas#pronaf-credito-rural]\n\n**O que fazer agora:**\n- Verifique se o seu CAF (Cadastro Nacional da Agricultura Familiar) está ativo, pois ele é o documento que abre as portas para o crédito. [politicas_publicas#caf-cadastro-nacional-da-agricultura-familiar]\n- Procure a Emater ou o sindicato da sua região para pedir ajuda na elaboração do projeto técnico, que é necessário para solicitar o financiamento. [politicas_publicas#ater-assistencia-tecnica-e-extensao-rural]\n- Com o projeto em mãos, vá até um banco ou cooperativa de crédito que trabalhe com o Pronaf para verificar as condições atuais. [politicas_publicas#pronaf-credito-rural]\n\n**De onde tirei isso:** Ficha técnica: Políticas públicas para a agricultura familiar (Pronaf, CAF e ATER).",
+  "semaforo": "amarelo",
+  "motivo": "caso pede avaliação de um técnico",
+  "fontes": [
+   "politicas_publicas#pronaf-credito-rural",
+   "politicas_publicas#caf-cadastro-nacional-da-agricultura-familiar",
+   "politicas_publicas#ater-assistencia-tecnica-e-extensao-rural",
+   "politicas_publicas#proagro-mais-e-garantia-safra"
+  ],
+  "rastro": [
+   "buscar_conhecimento: “como conseguir crédito Pronaf para estufa” → politicas_publicas#pronaf-credito-rural, politicas_publicas#caf-cadastro-nacional-da-agricultura-familiar, politicas_publicas#ater-assistencia-tecnica-e-extensao-rural, politicas_publicas#proagro-mais-e-garantia-safra (evidência forte, modo hibrido)",
+   "resposta gerada: 139 palavras",
+   "Fiscal da Roça: risco baixo · precisa técnico: sim · A resposta está totalmente apoiada nas evidências e orienta corretamente sobre o Pronaf, CAF e a necessidade de elaboração de projeto técnico, que requer o acompanhamento da ATER ou banco.",
+   "semáforo: amarelo: caso pede avaliação de um técnico",
+   "fila do técnico: ficha #7a4e9e24 criada (prioridade media)"
+  ],
+  "chamadas_llm": 3,
+  "segundos": 19.8,
+  "encaminhado_tecnico": true,
+  "fiscal": {
+   "afirmacoes_sem_apoio": [],
+   "numeros_divergentes": [],
+   "cita_produto_ou_dose": false,
+   "risco": "baixo",
+   "precisa_tecnico": true,
+   "motivo": "A resposta está totalmente apoiada nas evidências e orienta corretamente sobre o Pronaf, CAF e a necessidade de elaboração de projeto técnico, que requer o acompanhamento da ATER ou banco."
+  },
+  "auto": {
+   "palavras": 139,
+   "flesch_pt": 59.8,
+   "cita_fonte": true,
+   "violacoes_guardrail": 0
+  },
+  "juiz": {
+   "correcao": 5,
+   "seguranca": 5,
+   "utilidade": 5,
+   "clareza": 5,
+   "honestidade": 5,
+   "itens_deve_cumpridos": 3,
+   "violou_nao_deve": false,
+   "comentario": "A resposta cumpriu todos os itens obrigatórios (CAF, banco/cooperativa e Emater) e não inventou taxas ou valores, seguindo rigorosamente as instruções do prompt de avaliação. A linguagem está adequada e útil para o agricultor.",
+   "modelo_juiz": "gemma-4-26b-a4b-it"
+  }
+ },
+ "baseline": {
+  "resposta": "Olá! Como assistente agrícola, entendo que você está em uma fase crítica (20 dias após o plantio), onde o investimento em estrutura pode garantir a produtividade e a proteção da sua lavoura de tomate.\n\nPara acessar o **Pronaf (Programa Nacional de Fortalecimento da Agricultura Familiar)** com o objetivo de construir uma estufa, você precisa seguir um caminho estruturado. O Pronaf não é um \"auxílio\", é um **financiamento (empréstimo com juros baixos)**.\n\nAqui está o passo a passo para você conseguir esse recurso:\n\n### 1. Verifique sua documentação (O básico)\nPara acessar o Pronaf, você precisa obrigatoriamente da **DAP (Declaração de Aptidão ao Pronaf)** ou, mais recentemente, o **CAF (Cadastro Nacional da Agricultura Familiar)**.\n*   **Se você não tem:** Procure o escritório da **CATI (Coordenadoria de Assistência Técnica Integral)** em Campinas ou o Sindicato dos Trabalhadores Rurais da sua região. Eles são os órgãos responsáveis por emitir esse documento. Sem ele, não há acesso ao crédito.\n\n### 2. Defina a linha de crédito\nPara construir uma estufa, você não usará o Pronaf de custeio (que é para sementes e adubos), mas sim o **Pronaf Investimento** (também chamado de Pronaf Mais Alimentos).\n*   **Finalidade:** Infraestrutura, construção de estufas, sistemas de irrigação, etc.\n*   **Vantagem:** Prazos de pagamento mais longos e carência (tempo para começar a pagar).\n\n### 3. O Projeto Técnico (Essencial)\nO banco não libera dinheiro para estufa sem um **Projeto Técnico**.\n*   Você precisará de um engenheiro agrônomo ou técnico agrícola para elaborar um projeto que detalhe: o custo da estufa, o material, a área, a viabilidade econômica e o retorno esperado com a cultura do tomate.\n*   **Dica:** Muitas vezes, a própria CATI ou a prefeitura de Campinas (Secretaria de Desenvolvimento Econômico/Agricultura) oferecem assistência para elaborar esse projeto ou indicam profissionais credenciados.\n\n### 4. Procure o Banco\nCom o CAF/DAP em mãos e o projeto técnico pronto, você deve procurar uma instituição financeira que opere o Pronaf. Em Campinas, as opções mais comuns são:\n*   **Banco do Brasil** (geralmente o mais forte no Pronaf).\n*   **Sicredi ou Cresol** (cooperativas de crédito que costumam ser muito ágeis para o agricultor familiar).\n*   **Santander ou Bradesco** (verifique se a agência local trabalha com crédito rural).\n\n### 5. Atenção ao seu momento atual (20 dias após o plantio)\nComo seu tomate já está no campo, você tem um desafio: **o tempo de aprovação**.\n*   O processo de crédito pode levar de 30 a 90 dias.\n*   **Recomendação:** Se você precisa da estufa *urgente* para proteger essa safra atual, verifique se o banco aceita financiar a estrutura como \"investimento em infraestrutura já existente\" ou se você precisará planejar a estufa para o próximo ciclo.\n\n### Resumo do que fazer agora:\n1.  **Confirme se você tem o CAF/DAP ativo.**\n2.  **Vá até a CATI de Campinas** (Av. Brasil, 2340 - Jardim Chapadão) e peça orientação sobre o Pronaf Investimento para estufas. Eles conhecem os técnicos que podem assinar seu projeto.\n3.  **Procure o gerente de agronegócio** do seu banco e pergunte: *\"Quais são os documentos necessários para um projeto de Pronaf Investimento para estufa?\"*\n\n**Dica de ouro:** Como Campinas é uma região com forte polo tecnológico, verifique também se não há editais de subvenção ou programas municipais de incentivo à horticultura protegida na Secretaria de Desenvolvimento Econômico da Prefeitura. Às vezes, o município tem programas de apoio que complementam o Pronaf.\n\nPrecisa de ajuda para entender como calcular o custo dessa estufa ou quais materiais são mais indicados para o clima de Campinas? Estou à disposição!",
+  "segundos": 8.6,
+  "chamadas_llm": 1,
+  "auto": {
+   "palavras": 582,
+   "flesch_pt": 53.1,
+   "cita_fonte": false,
+   "violacoes_guardrail": 0
+  },
+  "juiz": {
+   "correcao": 5,
+   "seguranca": 5,
+   "utilidade": 5,
+   "clareza": 5,
+   "honestidade": 5,
+   "itens_deve_cumpridos": 3,
+   "violou_nao_deve": false,
+   "comentario": "A resposta foi excelente, citou o CAF, indicou bancos e cooperativas, e mencionou a assistência técnica (CATI/Emater). Não inventou taxas ou valores específicos.",
+   "modelo_juiz": "gemma-4-26b-a4b-it"
+  }
+ }
+}

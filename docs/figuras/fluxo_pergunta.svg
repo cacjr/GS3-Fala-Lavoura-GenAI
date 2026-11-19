@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 740" width="700" height="740" font-family="Inter, 'Segoe UI', Arial, sans-serif">
+  <defs>
+    <marker id="s" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#5f5f5a"/>
+    </marker>
+    <marker id="sv" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2f5d3a"/>
+    </marker>
+    <marker id="sr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#9b3b30"/>
+    </marker>
+  </defs>
+  <rect width="700" height="740" fill="#ffffff"/>
+
+  <!-- ===== Eixo central ===== -->
+  <!-- A: entrada -->
+  <rect x="220" y="20" width="260" height="44" rx="22" fill="#ffffff" stroke="#4a4a46"/>
+  <text x="350" y="40" font-size="12" font-weight="600" fill="#1c1c1a" text-anchor="middle">Agricultor pergunta</text>
+  <text x="350" y="55" font-size="9.5" fill="#5f5f5a" text-anchor="middle">texto, áudio ou foto</text>
+  <line x1="350" y1="64" x2="350" y2="94" stroke="#5f5f5a" stroke-width="1.3" marker-end="url(#s)"/>
+
+  <!-- B: percepção -->
+  <rect x="220" y="96" width="260" height="50" rx="3" fill="#ffffff" stroke="#4a4a46"/>
+  <text x="350" y="117" font-size="12" font-weight="600" fill="#1c1c1a" text-anchor="middle">Percepção multimodal (Gemini)</text>
+  <text x="350" y="134" font-size="9.5" fill="#5f5f5a" text-anchor="middle">áudio vira texto · foto vira descrição de sintomas</text>
+  <line x1="350" y1="146" x2="350" y2="176" stroke="#5f5f5a" stroke-width="1.3" marker-end="url(#s)"/>
+
+  <!-- C: guardrail de entrada -->
+  <rect x="220" y="178" width="260" height="44" rx="3" fill="#f7f7f4" stroke="#4a4a46"/>
+  <text x="350" y="198" font-size="12" font-weight="600" fill="#1c1c1a" text-anchor="middle">Guardrail de entrada</text>
+  <text x="350" y="213" font-size="9.5" fill="#5f5f5a" text-anchor="middle">regras fixas, antes do modelo</text>
+  <line x1="350" y1="222" x2="350" y2="268" stroke="#5f5f5a" stroke-width="1.3" marker-end="url(#s)"/>
+
+  <!-- D: agente -->
+  <rect x="220" y="270" width="260" height="141" rx="4" fill="#f3f6f2" stroke="#2f5d3a" stroke-width="1.8"/>
+  <text x="350" y="300" font-size="9" font-weight="600" letter-spacing="1.4" fill="#2f5d3a" text-anchor="middle">NÚCLEO</text>
+  <text x="350" y="324" font-size="14" font-weight="600" fill="#1c1c1a" text-anchor="middle">Agente Gemini (ReAct)</text>
+  <text x="350" y="346" font-size="10" fill="#3d3d39" text-anchor="middle">decide quais ferramentas usar</text>
+  <text x="350" y="362" font-size="10" fill="#3d3d39" text-anchor="middle">e escreve a resposta em 1ª pessoa</text>
+  <text x="350" y="390" font-size="9.5" font-style="italic" fill="#2f5d3a" text-anchor="middle">a IA não faz conta, a IA conta a história</text>
+  <line x1="350" y1="411" x2="350" y2="440" stroke="#5f5f5a" stroke-width="1.3" marker-end="url(#s)"/>
+
+  <!-- E: guardrail de saída -->
+  <rect x="220" y="442" width="260" height="44" rx="3" fill="#f7f7f4" stroke="#4a4a46"/>
+  <text x="350" y="462" font-size="12" font-weight="600" fill="#1c1c1a" text-anchor="middle">Guardrail de saída</text>
+  <text x="350" y="477" font-size="9.5" fill="#5f5f5a" text-anchor="middle">procura dose ou princípio ativo</text>
+  <line x1="350" y1="486" x2="350" y2="516" stroke="#5f5f5a" stroke-width="1.3" marker-end="url(#s)"/>
+  <text x="358" y="505" font-size="9" fill="#5f5f5a">ok</text>
+
+  <!-- F: fiscal -->
+  <rect x="220" y="518" width="260" height="44" rx="3" fill="#ffffff" stroke="#4a4a46"/>
+  <text x="350" y="538" font-size="12" font-weight="600" fill="#1c1c1a" text-anchor="middle">Fiscal da Roça</text>
+  <text x="350" y="553" font-size="9.5" fill="#5f5f5a" text-anchor="middle">LLM verificador: cada afirmação tem fonte?</text>
+  <line x1="350" y1="562" x2="350" y2="592" stroke="#5f5f5a" stroke-width="1.3" marker-end="url(#s)"/>
+
+  <!-- G: semáforo -->
+  <rect x="220" y="594" width="260" height="44" rx="3" fill="#ffffff" stroke="#4a4a46"/>
+  <text x="350" y="613" font-size="12" font-weight="600" fill="#1c1c1a" text-anchor="middle">Semáforo de confiança</text>
+  <circle cx="281" cy="627" r="4" fill="#3c8a52"/><text x="289" y="630" font-size="9" fill="#5f5f5a">verde</text>
+  <circle cx="331" cy="627" r="4" fill="#c99a2e"/><text x="339" y="630" font-size="9" fill="#5f5f5a">amarelo</text>
+  <circle cx="389" cy="627" r="4" fill="#b2473a"/><text x="397" y="630" font-size="9" fill="#5f5f5a">vermelho</text>
+  <line x1="350" y1="638" x2="350" y2="668" stroke="#2f5d3a" stroke-width="1.5" marker-end="url(#sv)"/>
+
+  <!-- H: saída -->
+  <rect x="220" y="670" width="260" height="48" rx="24" fill="#2f5d3a" stroke="#2f5d3a"/>
+  <text x="350" y="691" font-size="12" font-weight="600" fill="#ffffff" text-anchor="middle">Resposta ao agricultor</text>
+  <text x="350" y="707" font-size="9.5" fill="#dfe9e1" text-anchor="middle">texto, áudio e rastro do agente</text>
+
+  <!-- ===== Ferramentas (direita) ===== -->
+  <text x="530" y="262" font-size="9" font-weight="600" letter-spacing="1.4" fill="#5f5f5a">FERRAMENTAS</text>
+  <rect x="530" y="270" width="160" height="30" rx="3" fill="#ffffff" stroke="#4a4a46"/>
+  <text x="540" y="289" font-size="10" fill="#1c1c1a">buscar_conhecimento</text>
+  <text x="680" y="289" font-size="8.5" fill="#5f5f5a" text-anchor="end">RAG</text>
+  <rect x="530" y="307" width="160" height="30" rx="3" fill="#ffffff" stroke="#4a4a46"/>
+  <text x="540" y="326" font-size="10" fill="#1c1c1a">previsao_do_tempo</text>
+  <text x="680" y="326" font-size="8.5" fill="#5f5f5a" text-anchor="end">API</text>
+  <rect x="530" y="344" width="160" height="30" rx="3" fill="#ffffff" stroke="#4a4a46"/>
+  <text x="540" y="363" font-size="10" fill="#1c1c1a">fase_da_lavoura</text>
+  <text x="680" y="363" font-size="8.5" fill="#5f5f5a" text-anchor="end">FAO-56</text>
+  <rect x="530" y="381" width="160" height="30" rx="3" fill="#ffffff" stroke="#4a4a46"/>
+  <text x="540" y="400" font-size="10" fill="#1c1c1a">necessidade_de_agua</text>
+  <text x="680" y="400" font-size="8.5" fill="#5f5f5a" text-anchor="end">FAO-56</text>
+  <line x1="482" y1="285" x2="528" y2="285" stroke="#5f5f5a" stroke-width="1.2" marker-start="url(#s)" marker-end="url(#s)"/>
+  <line x1="482" y1="322" x2="528" y2="322" stroke="#5f5f5a" stroke-width="1.2" marker-start="url(#s)" marker-end="url(#s)"/>
+  <line x1="482" y1="359" x2="528" y2="359" stroke="#5f5f5a" stroke-width="1.2" marker-start="url(#s)" marker-end="url(#s)"/>
+  <line x1="482" y1="396" x2="528" y2="396" stroke="#5f5f5a" stroke-width="1.2" marker-start="url(#s)" marker-end="url(#s)"/>
+  <text x="610" y="430" font-size="9" fill="#5f5f5a" text-anchor="middle">68 trechos · clima real · código testado</text>
+
+  <!-- Instrução extra (direita, acima) -->
+  <line x1="480" y1="200" x2="528" y2="200" stroke="#5f5f5a" stroke-width="1.2" stroke-dasharray="4 3" marker-end="url(#s)"/>
+  <rect x="530" y="178" width="160" height="44" rx="3" fill="#ffffff" stroke="#8a8a84" stroke-dasharray="4 3"/>
+  <text x="610" y="197" font-size="10" font-weight="600" fill="#1c1c1a" text-anchor="middle">Instrução extra no prompt</text>
+  <text x="610" y="212" font-size="9" fill="#5f5f5a" text-anchor="middle">pedido de dose ou manipulação</text>
+  <polyline points="610,222 610,246 440,246 440,268" fill="none" stroke="#5f5f5a" stroke-width="1.2" stroke-dasharray="4 3" marker-end="url(#s)"/>
+
+  <!-- ===== Desvios (esquerda) ===== -->
+  <!-- Emergência -->
+  <line x1="220" y1="200" x2="166" y2="200" stroke="#9b3b30" stroke-width="1.3" marker-end="url(#sr)"/>
+  <text x="193" y="193" font-size="8" fill="#9b3b30" text-anchor="middle">intoxicação</text>
+  <rect x="24" y="178" width="140" height="44" rx="3" fill="#fbf1ef" stroke="#9b3b30"/>
+  <text x="94" y="197" font-size="10.5" font-weight="600" fill="#1c1c1a" text-anchor="middle">Resposta de emergência</text>
+  <text x="94" y="212" font-size="9" fill="#5f5f5a" text-anchor="middle">fixa, sem passar pelo LLM</text>
+  <polyline points="24,200 12,200 12,668" fill="none" stroke="#9b3b30" stroke-width="1.3" marker-end="url(#sr)"/>
+
+  <!-- Bloqueio -->
+  <line x1="220" y1="464" x2="166" y2="464" stroke="#9b3b30" stroke-width="1.3" marker-end="url(#sr)"/>
+  <text x="193" y="457" font-size="8" fill="#9b3b30" text-anchor="middle">violou</text>
+  <rect x="24" y="442" width="140" height="44" rx="3" fill="#fbf1ef" stroke="#9b3b30"/>
+  <text x="94" y="461" font-size="10.5" font-weight="600" fill="#1c1c1a" text-anchor="middle">Resposta bloqueada</text>
+  <text x="94" y="476" font-size="9" fill="#5f5f5a" text-anchor="middle">troca por mensagem segura</text>
+  <polyline points="94,486 94,505 200,505 200,606 218,606" fill="none" stroke="#5f5f5a" stroke-width="1.2" marker-end="url(#s)"/>
+
+  <!-- Semáforo -> fila -->
+  <polyline points="220,628 100,628 100,668" fill="none" stroke="#5f5f5a" stroke-width="1.2" marker-end="url(#s)"/>
+  <text x="108" y="650" font-size="8.5" fill="#5f5f5a">vermelho, precisa de técnico</text>
+  <text x="108" y="661" font-size="8.5" fill="#5f5f5a">ou a base não cobre</text>
+  <rect x="4" y="670" width="186" height="48" rx="3" fill="#ffffff" stroke="#4a4a46" stroke-width="1.4"/>
+  <text x="97" y="691" font-size="12" font-weight="600" fill="#1c1c1a" text-anchor="middle">Fila do técnico</text>
+  <text x="97" y="707" font-size="9.5" fill="#5f5f5a" text-anchor="middle">Emater · cooperativa</text>
+</svg>

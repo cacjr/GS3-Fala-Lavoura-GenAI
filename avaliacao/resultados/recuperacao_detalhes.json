@@ -1,0 +1,2079 @@
+{
+ "A) BM25 puro": [
+  {
+   "pergunta": "tem uns bicho comendo a folha do milho e uma serragem molhada no meio",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#lagarta-do-cartucho",
+    "pragas_e_agrotoxicos#manejo-integrado-de-pragas-mip",
+    "tomate#irrigacao-regular"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "as folhas de baixo do milho tão amarelando em forma de V",
+   "posicao_correta": 2,
+   "top3": [
+    "milho#doencas-das-folhas",
+    "milho#sinais-de-falta-de-nutrientes",
+    "alface#mildio"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o milho ficou baixinho com folha avermelhada e espiga falhada",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#cigarrinha-do-milho-e-enfezamentos",
+    "milho#lagarta-do-cartucho",
+    "milho#fases-da-cultura-e-necessidade-de-agua"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "quando eu jogo a ureia no milho?",
+   "posicao_correta": 3,
+   "top3": [
+    "milho#cigarrinha-do-milho-e-enfezamentos",
+    "saberes_tradicionais#consorcio-milho-feijao-e-abobora",
+    "milho#adubacao-de-cobertura-com-nitrogenio"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "posso guardar o milho meio úmido no paiol?",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#colheita-e-armazenamento",
+    "milho#adubacao-de-cobertura-com-nitrogenio",
+    "milho#plantio-e-espacamento"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "a folha do feijão ficou amarelo brilhante e a planta não carrega",
+   "posicao_correta": 1,
+   "top3": [
+    "feijao#mosca-branca-e-mosaico-dourado",
+    "feijao#vaquinha",
+    "alface#pulgoes-lesmas-e-caracois"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "tem um besourinho verde com pinta amarela furando as folhas do feijão",
+   "posicao_correta": 1,
+   "top3": [
+    "feijao#vaquinha",
+    "solo_adubacao#adubacao-verde-e-rotacao-de-culturas",
+    "tomate#pinta-preta"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o feijão tá soltando as flores com esse calorão",
+   "posicao_correta": 1,
+   "top3": [
+    "feijao#fases-criticas-e-agua",
+    "clima_extremo#calor-intenso",
+    "saberes_tradicionais#consorcio-milho-feijao-e-abobora"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "mancha escura afundada na vagem do feijão",
+   "posicao_correta": 1,
+   "top3": [
+    "feijao#doencas-antracnose-mancha-angular-e-ferrugem",
+    "tomate#podridao-apical-fundo-preto",
+    "feijao#fases-criticas-e-agua"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "uma lagartona enorme comeu as folhas da mandioca em 3 dias",
+   "posicao_correta": 5,
+   "top3": [
+    "mandioca#mandioca-brava-e-seguranca-dos-alimentos",
+    "mandioca#acaros-e-bacteriose",
+    "mandioca#agua-e-tolerancia-a-seca"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "posso comer mandioca brava cozida?",
+   "posicao_correta": 1,
+   "top3": [
+    "mandioca#mandioca-brava-e-seguranca-dos-alimentos",
+    "mandioca#agua-e-tolerancia-a-seca",
+    "mandioca#plantio-e-manivas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "a raiz da mandioca apodreceu depois de muita chuva",
+   "posicao_correta": null,
+   "top3": [
+    "mandioca#colheita",
+    "mandioca#plantio-e-manivas",
+    "feijao#fases-criticas-e-agua"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "que pedaço da rama eu uso pra plantar aipim?",
+   "posicao_correta": 1,
+   "top3": [
+    "mandioca#plantio-e-manivas",
+    "pragas_e_agrotoxicos#uso-seguro-e-equipamento-de-protecao",
+    "mandioca#colheita"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "meu tomate tá com o fundo preto",
+   "posicao_correta": 1,
+   "top3": [
+    "tomate#podridao-apical-fundo-preto",
+    "tomate#conducao-tutoramento-e-desbrota",
+    "agua_irrigacao#quando-e-como-regar"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "as folhas do tomate ficaram pretas e moles de um dia pro outro com essa garoa fria",
+   "posicao_correta": null,
+   "top3": [
+    "tomate#irrigacao-regular",
+    "tomate#pinta-preta",
+    "agua_irrigacao#sinais-de-falta-e-de-excesso-de-agua"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "mancha com rodinhas tipo alvo na folha velha do tomate",
+   "posicao_correta": 1,
+   "top3": [
+    "tomate#pinta-preta",
+    "tomate#requeima",
+    "milho#sinais-de-falta-de-nutrientes"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "tem uns caminhos branquinhos dentro da folha do tomate",
+   "posicao_correta": 1,
+   "top3": [
+    "tomate#traca-do-tomateiro",
+    "tomate#irrigacao-regular",
+    "tomate#mosca-branca-e-viroses"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o tomate tá rachando",
+   "posicao_correta": 3,
+   "top3": [
+    "tomate#conducao-tutoramento-e-desbrota",
+    "tomate#mosca-branca-e-viroses",
+    "tomate#irrigacao-regular"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "minha alface espigou e ficou amarga",
+   "posicao_correta": 1,
+   "top3": [
+    "alface#pendoamento-precoce-alface-espigando",
+    "alface#ciclo-e-clima",
+    "clima_extremo#clima-favoravel-a-doencas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "a borda das folhas de dentro da alface tá ficando marrom e seca",
+   "posicao_correta": 1,
+   "top3": [
+    "alface#queima-de-bordas",
+    "milho#sinais-de-falta-de-nutrientes",
+    "tomate#pinta-preta"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "tem caramujo comendo a horta de noite",
+   "posicao_correta": 1,
+   "top3": [
+    "alface#pulgoes-lesmas-e-caracois",
+    "clima_extremo#geada",
+    "agua_irrigacao#quando-e-como-regar"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "qual a melhor hora pra molhar a horta?",
+   "posicao_correta": 2,
+   "top3": [
+    "tomate#irrigacao-regular",
+    "agua_irrigacao#quando-e-como-regar",
+    "alface#pendoamento-precoce-alface-espigando"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como eu sei se a terra tá precisando de água?",
+   "posicao_correta": 2,
+   "top3": [
+    "agua_irrigacao#captacao-e-armazenamento-de-agua-da-chuva",
+    "agua_irrigacao#teste-do-tato-no-solo",
+    "solo_adubacao#cobertura-morta"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "vale a pena trocar a mangueira por gotejo?",
+   "posicao_correta": 1,
+   "top3": [
+    "agua_irrigacao#eficiencia-dos-sistemas-de-irrigacao",
+    "tomate#irrigacao-regular",
+    "saberes_tradicionais#biofertilizantes-e-preparados-caseiros"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "a previsão diz que vai gear essa semana, o que eu faço?",
+   "posicao_correta": 2,
+   "top3": [
+    "clima_extremo#chuva-forte-e-enxurrada",
+    "clima_extremo#geada",
+    "milho#lagarta-do-cartucho"
+   ],
+   "forca": "fraca"
+  },
+  {
+   "pergunta": "deu um toró e levou a terra do morro embora",
+   "posicao_correta": 1,
+   "top3": [
+    "solo_adubacao#erosao-e-conservacao-do-solo",
+    "solo_adubacao#analise-de-solo",
+    "clima_extremo#ventos-fortes"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "minha terra tá fraca, como eu melhoro?",
+   "posicao_correta": 1,
+   "top3": [
+    "solo_adubacao#analise-de-solo",
+    "milho#doencas-das-folhas",
+    "tomate#irrigacao-regular"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "posso usar bosta de vaca fresca no canteiro?",
+   "posicao_correta": 5,
+   "top3": [
+    "alface#irrigacao-de-folhosas",
+    "feijao#colheita",
+    "alface#mildio"
+   ],
+   "forca": "fraca"
+  },
+  {
+   "pergunta": "quanto de veneno eu ponho na bomba?",
+   "posicao_correta": null,
+   "top3": [
+    "mandioca#mandioca-brava-e-seguranca-dos-alimentos"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "o que eu faço com as embalagem vazia do veneno?",
+   "posicao_correta": 1,
+   "top3": [
+    "pragas_e_agrotoxicos#embalagens-vazias",
+    "pragas_e_agrotoxicos#intoxicacao-por-agrotoxico-o-que-fazer",
+    "mandioca#mandioca-brava-e-seguranca-dos-alimentos"
+   ],
+   "forca": "fraca"
+  },
+  {
+   "pergunta": "como pego dinheiro do banco pra comprar uma bomba d'água?",
+   "posicao_correta": 2,
+   "top3": [
+    "politicas_publicas#venda-para-programas-publicos-paa-e-pnae",
+    "politicas_publicas#pronaf-credito-rural",
+    "agua_irrigacao#captacao-e-armazenamento-de-agua-da-chuva"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como faço pra vender verdura pra merenda da escola?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#venda-para-programas-publicos-paa-e-pnae",
+    "mandioca#colheita"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "perdi a safra toda na seca, tem algum auxílio?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#proagro-mais-e-garantia-safra",
+    "politicas_publicas#pronaf-credito-rural",
+    "saberes_tradicionais#cinza-do-fogao-a-lenha"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "o que é esse tal de CAF que pediram no sindicato?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#caf-cadastro-nacional-da-agricultura-familiar",
+    "politicas_publicas#pronaf-credito-rural",
+    "solo_adubacao#analise-de-solo"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "plantar na lua minguante dá mais resultado?",
+   "posicao_correta": 1,
+   "top3": [
+    "saberes_tradicionais#plantar-conforme-a-fase-da-lua",
+    "saberes_tradicionais#biofertilizantes-e-preparados-caseiros"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "posso jogar cinza do fogão na horta?",
+   "posicao_correta": 1,
+   "top3": [
+    "saberes_tradicionais#cinza-do-fogao-a-lenha",
+    "alface#pulgoes-lesmas-e-caracois",
+    "alface#ciclo-e-clima"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "plantar milho junto com feijão e abóbora funciona?",
+   "posicao_correta": 1,
+   "top3": [
+    "saberes_tradicionais#consorcio-milho-feijao-e-abobora",
+    "solo_adubacao#adubacao-verde-e-rotacao-de-culturas",
+    "mandioca#mandarova"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "qual a época certa de plantar o milho aqui na minha cidade?",
+   "posicao_correta": 2,
+   "top3": [
+    "milho#doencas-das-folhas",
+    "milho#plantio-e-espacamento",
+    "alface#pendoamento-precoce-alface-espigando"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como plantar quinoa no cerrado?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": []
+  },
+  {
+   "pergunta": "qual o preço da saca de soja hoje?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "saberes_tradicionais#plantar-conforme-a-fase-da-lua",
+    "feijao#mosca-branca-e-mosaico-dourado"
+   ]
+  },
+  {
+   "pergunta": "quando vacinar o gado contra aftosa?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "solo_adubacao#adubacao-organica-e-compostagem"
+   ]
+  },
+  {
+   "pergunta": "como criar tilápia em tanque escavado?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "pragas_e_agrotoxicos#embalagens-vazias"
+   ]
+  }
+ ],
+ "B) BM25 + dicionário": [
+  {
+   "pergunta": "tem uns bicho comendo a folha do milho e uma serragem molhada no meio",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#lagarta-do-cartucho",
+    "tomate#traca-do-tomateiro",
+    "mandioca#mandarova"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "as folhas de baixo do milho tão amarelando em forma de V",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#sinais-de-falta-de-nutrientes",
+    "milho#adubacao-de-cobertura-com-nitrogenio",
+    "milho#doencas-das-folhas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o milho ficou baixinho com folha avermelhada e espiga falhada",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#cigarrinha-do-milho-e-enfezamentos",
+    "milho#lagarta-do-cartucho",
+    "milho#fases-da-cultura-e-necessidade-de-agua"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "quando eu jogo a ureia no milho?",
+   "posicao_correta": 3,
+   "top3": [
+    "milho#cigarrinha-do-milho-e-enfezamentos",
+    "saberes_tradicionais#consorcio-milho-feijao-e-abobora",
+    "milho#adubacao-de-cobertura-com-nitrogenio"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "posso guardar o milho meio úmido no paiol?",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#colheita-e-armazenamento",
+    "milho#adubacao-de-cobertura-com-nitrogenio",
+    "milho#plantio-e-espacamento"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "a folha do feijão ficou amarelo brilhante e a planta não carrega",
+   "posicao_correta": 1,
+   "top3": [
+    "feijao#mosca-branca-e-mosaico-dourado",
+    "tomate#mosca-branca-e-viroses",
+    "feijao#vaquinha"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "tem um besourinho verde com pinta amarela furando as folhas do feijão",
+   "posicao_correta": 1,
+   "top3": [
+    "feijao#vaquinha",
+    "solo_adubacao#adubacao-verde-e-rotacao-de-culturas",
+    "tomate#pinta-preta"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o feijão tá soltando as flores com esse calorão",
+   "posicao_correta": 1,
+   "top3": [
+    "clima_extremo#calor-intenso",
+    "feijao#fases-criticas-e-agua",
+    "saberes_tradicionais#consorcio-milho-feijao-e-abobora"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "mancha escura afundada na vagem do feijão",
+   "posicao_correta": 1,
+   "top3": [
+    "feijao#doencas-antracnose-mancha-angular-e-ferrugem",
+    "tomate#podridao-apical-fundo-preto",
+    "feijao#fases-criticas-e-agua"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "uma lagartona enorme comeu as folhas da mandioca em 3 dias",
+   "posicao_correta": 1,
+   "top3": [
+    "mandioca#mandarova",
+    "milho#lagarta-do-cartucho",
+    "mandioca#mandioca-brava-e-seguranca-dos-alimentos"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "posso comer mandioca brava cozida?",
+   "posicao_correta": 1,
+   "top3": [
+    "mandioca#mandioca-brava-e-seguranca-dos-alimentos",
+    "mandioca#agua-e-tolerancia-a-seca",
+    "mandioca#plantio-e-manivas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "a raiz da mandioca apodreceu depois de muita chuva",
+   "posicao_correta": null,
+   "top3": [
+    "mandioca#colheita",
+    "mandioca#plantio-e-manivas",
+    "feijao#fases-criticas-e-agua"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "que pedaço da rama eu uso pra plantar aipim?",
+   "posicao_correta": 1,
+   "top3": [
+    "mandioca#plantio-e-manivas",
+    "mandioca#mandioca-brava-e-seguranca-dos-alimentos",
+    "mandioca#agua-e-tolerancia-a-seca"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "meu tomate tá com o fundo preto",
+   "posicao_correta": 1,
+   "top3": [
+    "tomate#podridao-apical-fundo-preto",
+    "tomate#irrigacao-regular",
+    "alface#queima-de-bordas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "as folhas do tomate ficaram pretas e moles de um dia pro outro com essa garoa fria",
+   "posicao_correta": null,
+   "top3": [
+    "tomate#irrigacao-regular",
+    "tomate#pinta-preta",
+    "agua_irrigacao#sinais-de-falta-e-de-excesso-de-agua"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "mancha com rodinhas tipo alvo na folha velha do tomate",
+   "posicao_correta": 1,
+   "top3": [
+    "tomate#pinta-preta",
+    "tomate#requeima",
+    "milho#sinais-de-falta-de-nutrientes"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "tem uns caminhos branquinhos dentro da folha do tomate",
+   "posicao_correta": 1,
+   "top3": [
+    "tomate#traca-do-tomateiro",
+    "tomate#irrigacao-regular",
+    "tomate#mosca-branca-e-viroses"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o tomate tá rachando",
+   "posicao_correta": 2,
+   "top3": [
+    "tomate#podridao-apical-fundo-preto",
+    "tomate#irrigacao-regular",
+    "tomate#requeima"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "minha alface espigou e ficou amarga",
+   "posicao_correta": 1,
+   "top3": [
+    "alface#pendoamento-precoce-alface-espigando",
+    "alface#ciclo-e-clima",
+    "clima_extremo#calor-intenso"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "a borda das folhas de dentro da alface tá ficando marrom e seca",
+   "posicao_correta": 1,
+   "top3": [
+    "alface#queima-de-bordas",
+    "milho#sinais-de-falta-de-nutrientes",
+    "tomate#pinta-preta"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "tem caramujo comendo a horta de noite",
+   "posicao_correta": 1,
+   "top3": [
+    "alface#pulgoes-lesmas-e-caracois",
+    "clima_extremo#geada",
+    "agua_irrigacao#quando-e-como-regar"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "qual a melhor hora pra molhar a horta?",
+   "posicao_correta": 1,
+   "top3": [
+    "agua_irrigacao#quando-e-como-regar",
+    "tomate#irrigacao-regular",
+    "alface#irrigacao-de-folhosas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como eu sei se a terra tá precisando de água?",
+   "posicao_correta": 2,
+   "top3": [
+    "agua_irrigacao#captacao-e-armazenamento-de-agua-da-chuva",
+    "agua_irrigacao#teste-do-tato-no-solo",
+    "solo_adubacao#cobertura-morta"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "vale a pena trocar a mangueira por gotejo?",
+   "posicao_correta": 1,
+   "top3": [
+    "agua_irrigacao#eficiencia-dos-sistemas-de-irrigacao",
+    "tomate#irrigacao-regular",
+    "saberes_tradicionais#biofertilizantes-e-preparados-caseiros"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "a previsão diz que vai gear essa semana, o que eu faço?",
+   "posicao_correta": 1,
+   "top3": [
+    "clima_extremo#geada",
+    "clima_extremo#chuva-forte-e-enxurrada",
+    "milho#lagarta-do-cartucho"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "deu um toró e levou a terra do morro embora",
+   "posicao_correta": 1,
+   "top3": [
+    "solo_adubacao#erosao-e-conservacao-do-solo",
+    "solo_adubacao#analise-de-solo",
+    "clima_extremo#ventos-fortes"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "minha terra tá fraca, como eu melhoro?",
+   "posicao_correta": 1,
+   "top3": [
+    "solo_adubacao#analise-de-solo",
+    "milho#doencas-das-folhas",
+    "tomate#irrigacao-regular"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "posso usar bosta de vaca fresca no canteiro?",
+   "posicao_correta": 1,
+   "top3": [
+    "solo_adubacao#adubacao-organica-e-compostagem",
+    "milho#adubacao-de-cobertura-com-nitrogenio",
+    "saberes_tradicionais#por-que-respeitar-o-saber-da-roca"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "quanto de veneno eu ponho na bomba?",
+   "posicao_correta": 1,
+   "top3": [
+    "pragas_e_agrotoxicos#receituario-agronomico-e-dose-de-agrotoxico",
+    "pragas_e_agrotoxicos#uso-seguro-e-equipamento-de-protecao",
+    "pragas_e_agrotoxicos#caldas-e-preparados-alternativos"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o que eu faço com as embalagem vazia do veneno?",
+   "posicao_correta": 2,
+   "top3": [
+    "pragas_e_agrotoxicos#receituario-agronomico-e-dose-de-agrotoxico",
+    "pragas_e_agrotoxicos#embalagens-vazias",
+    "pragas_e_agrotoxicos#intoxicacao-por-agrotoxico-o-que-fazer"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como pego dinheiro do banco pra comprar uma bomba d'água?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#pronaf-credito-rural",
+    "politicas_publicas#venda-para-programas-publicos-paa-e-pnae",
+    "politicas_publicas#ater-assistencia-tecnica-e-extensao-rural"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como faço pra vender verdura pra merenda da escola?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#venda-para-programas-publicos-paa-e-pnae",
+    "mandioca#colheita"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "perdi a safra toda na seca, tem algum auxílio?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#proagro-mais-e-garantia-safra",
+    "politicas_publicas#pronaf-credito-rural",
+    "saberes_tradicionais#biofertilizantes-e-preparados-caseiros"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o que é esse tal de CAF que pediram no sindicato?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#caf-cadastro-nacional-da-agricultura-familiar",
+    "politicas_publicas#pronaf-credito-rural",
+    "solo_adubacao#analise-de-solo"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "plantar na lua minguante dá mais resultado?",
+   "posicao_correta": 1,
+   "top3": [
+    "saberes_tradicionais#plantar-conforme-a-fase-da-lua",
+    "clima_extremo#estiagem-e-veranico",
+    "milho#fases-da-cultura-e-necessidade-de-agua"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "posso jogar cinza do fogão na horta?",
+   "posicao_correta": 1,
+   "top3": [
+    "saberes_tradicionais#cinza-do-fogao-a-lenha",
+    "milho#adubacao-de-cobertura-com-nitrogenio",
+    "milho#sinais-de-falta-de-nutrientes"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "plantar milho junto com feijão e abóbora funciona?",
+   "posicao_correta": 1,
+   "top3": [
+    "saberes_tradicionais#consorcio-milho-feijao-e-abobora",
+    "solo_adubacao#adubacao-verde-e-rotacao-de-culturas",
+    "mandioca#mandarova"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "qual a época certa de plantar o milho aqui na minha cidade?",
+   "posicao_correta": 2,
+   "top3": [
+    "milho#doencas-das-folhas",
+    "milho#plantio-e-espacamento",
+    "alface#pendoamento-precoce-alface-espigando"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como plantar quinoa no cerrado?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": []
+  },
+  {
+   "pergunta": "qual o preço da saca de soja hoje?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "saberes_tradicionais#plantar-conforme-a-fase-da-lua",
+    "feijao#mosca-branca-e-mosaico-dourado"
+   ]
+  },
+  {
+   "pergunta": "quando vacinar o gado contra aftosa?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "solo_adubacao#adubacao-organica-e-compostagem"
+   ]
+  },
+  {
+   "pergunta": "como criar tilápia em tanque escavado?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "pragas_e_agrotoxicos#embalagens-vazias"
+   ]
+  }
+ ],
+ "C) BM25 + dicionário + cultura": [
+  {
+   "pergunta": "tem uns bicho comendo a folha do milho e uma serragem molhada no meio",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#lagarta-do-cartucho",
+    "tomate#traca-do-tomateiro",
+    "milho#cigarrinha-do-milho-e-enfezamentos"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "as folhas de baixo do milho tão amarelando em forma de V",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#sinais-de-falta-de-nutrientes",
+    "milho#adubacao-de-cobertura-com-nitrogenio",
+    "milho#doencas-das-folhas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o milho ficou baixinho com folha avermelhada e espiga falhada",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#cigarrinha-do-milho-e-enfezamentos",
+    "milho#lagarta-do-cartucho",
+    "milho#fases-da-cultura-e-necessidade-de-agua"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "quando eu jogo a ureia no milho?",
+   "posicao_correta": 2,
+   "top3": [
+    "milho#cigarrinha-do-milho-e-enfezamentos",
+    "milho#adubacao-de-cobertura-com-nitrogenio",
+    "saberes_tradicionais#consorcio-milho-feijao-e-abobora"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "posso guardar o milho meio úmido no paiol?",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#colheita-e-armazenamento",
+    "milho#adubacao-de-cobertura-com-nitrogenio",
+    "milho#plantio-e-espacamento"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "a folha do feijão ficou amarelo brilhante e a planta não carrega",
+   "posicao_correta": 1,
+   "top3": [
+    "feijao#mosca-branca-e-mosaico-dourado",
+    "feijao#vaquinha",
+    "tomate#mosca-branca-e-viroses"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "tem um besourinho verde com pinta amarela furando as folhas do feijão",
+   "posicao_correta": 1,
+   "top3": [
+    "feijao#vaquinha",
+    "solo_adubacao#adubacao-verde-e-rotacao-de-culturas",
+    "feijao#mosca-branca-e-mosaico-dourado"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o feijão tá soltando as flores com esse calorão",
+   "posicao_correta": 1,
+   "top3": [
+    "clima_extremo#calor-intenso",
+    "feijao#fases-criticas-e-agua",
+    "feijao#plantio-e-ciclo"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "mancha escura afundada na vagem do feijão",
+   "posicao_correta": 1,
+   "top3": [
+    "feijao#doencas-antracnose-mancha-angular-e-ferrugem",
+    "feijao#fases-criticas-e-agua",
+    "tomate#podridao-apical-fundo-preto"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "uma lagartona enorme comeu as folhas da mandioca em 3 dias",
+   "posicao_correta": 1,
+   "top3": [
+    "mandioca#mandarova",
+    "mandioca#mandioca-brava-e-seguranca-dos-alimentos",
+    "milho#lagarta-do-cartucho"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "posso comer mandioca brava cozida?",
+   "posicao_correta": 1,
+   "top3": [
+    "mandioca#mandioca-brava-e-seguranca-dos-alimentos",
+    "mandioca#agua-e-tolerancia-a-seca",
+    "mandioca#plantio-e-manivas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "a raiz da mandioca apodreceu depois de muita chuva",
+   "posicao_correta": 5,
+   "top3": [
+    "mandioca#colheita",
+    "mandioca#plantio-e-manivas",
+    "mandioca#mandioca-brava-e-seguranca-dos-alimentos"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "que pedaço da rama eu uso pra plantar aipim?",
+   "posicao_correta": 1,
+   "top3": [
+    "mandioca#plantio-e-manivas",
+    "mandioca#mandioca-brava-e-seguranca-dos-alimentos",
+    "mandioca#agua-e-tolerancia-a-seca"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "meu tomate tá com o fundo preto",
+   "posicao_correta": 1,
+   "top3": [
+    "tomate#podridao-apical-fundo-preto",
+    "tomate#irrigacao-regular",
+    "alface#queima-de-bordas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "as folhas do tomate ficaram pretas e moles de um dia pro outro com essa garoa fria",
+   "posicao_correta": null,
+   "top3": [
+    "tomate#irrigacao-regular",
+    "tomate#pinta-preta",
+    "agua_irrigacao#sinais-de-falta-e-de-excesso-de-agua"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "mancha com rodinhas tipo alvo na folha velha do tomate",
+   "posicao_correta": 1,
+   "top3": [
+    "tomate#pinta-preta",
+    "tomate#requeima",
+    "milho#sinais-de-falta-de-nutrientes"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "tem uns caminhos branquinhos dentro da folha do tomate",
+   "posicao_correta": 1,
+   "top3": [
+    "tomate#traca-do-tomateiro",
+    "tomate#irrigacao-regular",
+    "tomate#mosca-branca-e-viroses"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o tomate tá rachando",
+   "posicao_correta": 2,
+   "top3": [
+    "tomate#podridao-apical-fundo-preto",
+    "tomate#irrigacao-regular",
+    "tomate#requeima"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "minha alface espigou e ficou amarga",
+   "posicao_correta": 1,
+   "top3": [
+    "alface#pendoamento-precoce-alface-espigando",
+    "alface#ciclo-e-clima",
+    "clima_extremo#calor-intenso"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "a borda das folhas de dentro da alface tá ficando marrom e seca",
+   "posicao_correta": 1,
+   "top3": [
+    "alface#queima-de-bordas",
+    "milho#sinais-de-falta-de-nutrientes",
+    "alface#pendoamento-precoce-alface-espigando"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "tem caramujo comendo a horta de noite",
+   "posicao_correta": 1,
+   "top3": [
+    "alface#pulgoes-lesmas-e-caracois",
+    "clima_extremo#geada",
+    "alface#ciclo-e-clima"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "qual a melhor hora pra molhar a horta?",
+   "posicao_correta": 1,
+   "top3": [
+    "agua_irrigacao#quando-e-como-regar",
+    "alface#irrigacao-de-folhosas",
+    "tomate#irrigacao-regular"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como eu sei se a terra tá precisando de água?",
+   "posicao_correta": 2,
+   "top3": [
+    "agua_irrigacao#captacao-e-armazenamento-de-agua-da-chuva",
+    "agua_irrigacao#teste-do-tato-no-solo",
+    "solo_adubacao#cobertura-morta"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "vale a pena trocar a mangueira por gotejo?",
+   "posicao_correta": 1,
+   "top3": [
+    "agua_irrigacao#eficiencia-dos-sistemas-de-irrigacao",
+    "tomate#irrigacao-regular",
+    "saberes_tradicionais#biofertilizantes-e-preparados-caseiros"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "a previsão diz que vai gear essa semana, o que eu faço?",
+   "posicao_correta": 1,
+   "top3": [
+    "clima_extremo#geada",
+    "clima_extremo#chuva-forte-e-enxurrada",
+    "milho#lagarta-do-cartucho"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "deu um toró e levou a terra do morro embora",
+   "posicao_correta": 1,
+   "top3": [
+    "solo_adubacao#erosao-e-conservacao-do-solo",
+    "solo_adubacao#analise-de-solo",
+    "clima_extremo#ventos-fortes"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "minha terra tá fraca, como eu melhoro?",
+   "posicao_correta": 1,
+   "top3": [
+    "solo_adubacao#analise-de-solo",
+    "milho#doencas-das-folhas",
+    "tomate#irrigacao-regular"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "posso usar bosta de vaca fresca no canteiro?",
+   "posicao_correta": 1,
+   "top3": [
+    "solo_adubacao#adubacao-organica-e-compostagem",
+    "milho#adubacao-de-cobertura-com-nitrogenio",
+    "saberes_tradicionais#por-que-respeitar-o-saber-da-roca"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "quanto de veneno eu ponho na bomba?",
+   "posicao_correta": 1,
+   "top3": [
+    "pragas_e_agrotoxicos#receituario-agronomico-e-dose-de-agrotoxico",
+    "pragas_e_agrotoxicos#uso-seguro-e-equipamento-de-protecao",
+    "pragas_e_agrotoxicos#caldas-e-preparados-alternativos"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o que eu faço com as embalagem vazia do veneno?",
+   "posicao_correta": 2,
+   "top3": [
+    "pragas_e_agrotoxicos#receituario-agronomico-e-dose-de-agrotoxico",
+    "pragas_e_agrotoxicos#embalagens-vazias",
+    "pragas_e_agrotoxicos#intoxicacao-por-agrotoxico-o-que-fazer"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como pego dinheiro do banco pra comprar uma bomba d'água?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#pronaf-credito-rural",
+    "politicas_publicas#venda-para-programas-publicos-paa-e-pnae",
+    "politicas_publicas#ater-assistencia-tecnica-e-extensao-rural"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como faço pra vender verdura pra merenda da escola?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#venda-para-programas-publicos-paa-e-pnae",
+    "mandioca#colheita"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "perdi a safra toda na seca, tem algum auxílio?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#proagro-mais-e-garantia-safra",
+    "politicas_publicas#pronaf-credito-rural",
+    "feijao#colheita"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o que é esse tal de CAF que pediram no sindicato?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#caf-cadastro-nacional-da-agricultura-familiar",
+    "politicas_publicas#pronaf-credito-rural",
+    "solo_adubacao#analise-de-solo"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "plantar na lua minguante dá mais resultado?",
+   "posicao_correta": 1,
+   "top3": [
+    "saberes_tradicionais#plantar-conforme-a-fase-da-lua",
+    "milho#fases-da-cultura-e-necessidade-de-agua",
+    "clima_extremo#estiagem-e-veranico"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "posso jogar cinza do fogão na horta?",
+   "posicao_correta": 1,
+   "top3": [
+    "saberes_tradicionais#cinza-do-fogao-a-lenha",
+    "milho#adubacao-de-cobertura-com-nitrogenio",
+    "alface#pulgoes-lesmas-e-caracois"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "plantar milho junto com feijão e abóbora funciona?",
+   "posicao_correta": 1,
+   "top3": [
+    "saberes_tradicionais#consorcio-milho-feijao-e-abobora",
+    "solo_adubacao#adubacao-verde-e-rotacao-de-culturas",
+    "mandioca#mandarova"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "qual a época certa de plantar o milho aqui na minha cidade?",
+   "posicao_correta": 2,
+   "top3": [
+    "milho#doencas-das-folhas",
+    "milho#plantio-e-espacamento",
+    "alface#pendoamento-precoce-alface-espigando"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como plantar quinoa no cerrado?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": []
+  },
+  {
+   "pergunta": "qual o preço da saca de soja hoje?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "saberes_tradicionais#plantar-conforme-a-fase-da-lua",
+    "feijao#mosca-branca-e-mosaico-dourado"
+   ]
+  },
+  {
+   "pergunta": "quando vacinar o gado contra aftosa?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "solo_adubacao#adubacao-organica-e-compostagem"
+   ]
+  },
+  {
+   "pergunta": "como criar tilápia em tanque escavado?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "pragas_e_agrotoxicos#embalagens-vazias"
+   ]
+  }
+ ],
+ "D) Embeddings + dicionário + cultura": [
+  {
+   "pergunta": "tem uns bicho comendo a folha do milho e uma serragem molhada no meio",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#lagarta-do-cartucho",
+    "milho#cigarrinha-do-milho-e-enfezamentos",
+    "milho#doencas-das-folhas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "as folhas de baixo do milho tão amarelando em forma de V",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#sinais-de-falta-de-nutrientes",
+    "milho#adubacao-de-cobertura-com-nitrogenio",
+    "milho#doencas-das-folhas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o milho ficou baixinho com folha avermelhada e espiga falhada",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#cigarrinha-do-milho-e-enfezamentos",
+    "milho#sinais-de-falta-de-nutrientes",
+    "milho#doencas-das-folhas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "quando eu jogo a ureia no milho?",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#adubacao-de-cobertura-com-nitrogenio",
+    "milho#fases-da-cultura-e-necessidade-de-agua",
+    "milho#colheita-e-armazenamento"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "posso guardar o milho meio úmido no paiol?",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#colheita-e-armazenamento",
+    "milho#fases-da-cultura-e-necessidade-de-agua",
+    "milho#cigarrinha-do-milho-e-enfezamentos"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "a folha do feijão ficou amarelo brilhante e a planta não carrega",
+   "posicao_correta": 1,
+   "top3": [
+    "feijao#mosca-branca-e-mosaico-dourado",
+    "feijao#vaquinha",
+    "tomate#mosca-branca-e-viroses"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "tem um besourinho verde com pinta amarela furando as folhas do feijão",
+   "posicao_correta": 1,
+   "top3": [
+    "feijao#vaquinha",
+    "feijao#mosca-branca-e-mosaico-dourado",
+    "alface#pulgoes-lesmas-e-caracois"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o feijão tá soltando as flores com esse calorão",
+   "posicao_correta": 1,
+   "top3": [
+    "clima_extremo#calor-intenso",
+    "feijao#fases-criticas-e-agua",
+    "feijao#plantio-e-ciclo"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "mancha escura afundada na vagem do feijão",
+   "posicao_correta": 1,
+   "top3": [
+    "feijao#doencas-antracnose-mancha-angular-e-ferrugem",
+    "feijao#vaquinha",
+    "feijao#colheita"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "uma lagartona enorme comeu as folhas da mandioca em 3 dias",
+   "posicao_correta": 1,
+   "top3": [
+    "mandioca#mandarova",
+    "mandioca#acaros-e-bacteriose",
+    "mandioca#plantio-e-manivas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "posso comer mandioca brava cozida?",
+   "posicao_correta": 1,
+   "top3": [
+    "mandioca#mandioca-brava-e-seguranca-dos-alimentos",
+    "mandioca#mandarova",
+    "mandioca#colheita"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "a raiz da mandioca apodreceu depois de muita chuva",
+   "posicao_correta": 1,
+   "top3": [
+    "mandioca#agua-e-tolerancia-a-seca",
+    "mandioca#colheita",
+    "mandioca#acaros-e-bacteriose"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "que pedaço da rama eu uso pra plantar aipim?",
+   "posicao_correta": 1,
+   "top3": [
+    "mandioca#plantio-e-manivas",
+    "mandioca#colheita",
+    "mandioca#agua-e-tolerancia-a-seca"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "meu tomate tá com o fundo preto",
+   "posicao_correta": 1,
+   "top3": [
+    "tomate#podridao-apical-fundo-preto",
+    "tomate#irrigacao-regular",
+    "tomate#pinta-preta"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "as folhas do tomate ficaram pretas e moles de um dia pro outro com essa garoa fria",
+   "posicao_correta": 2,
+   "top3": [
+    "tomate#pinta-preta",
+    "tomate#requeima",
+    "tomate#podridao-apical-fundo-preto"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "mancha com rodinhas tipo alvo na folha velha do tomate",
+   "posicao_correta": 1,
+   "top3": [
+    "tomate#pinta-preta",
+    "tomate#requeima",
+    "tomate#podridao-apical-fundo-preto"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "tem uns caminhos branquinhos dentro da folha do tomate",
+   "posicao_correta": 2,
+   "top3": [
+    "tomate#mosca-branca-e-viroses",
+    "tomate#traca-do-tomateiro",
+    "tomate#requeima"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o tomate tá rachando",
+   "posicao_correta": 1,
+   "top3": [
+    "tomate#irrigacao-regular",
+    "tomate#podridao-apical-fundo-preto",
+    "clima_extremo#calor-intenso"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "minha alface espigou e ficou amarga",
+   "posicao_correta": 1,
+   "top3": [
+    "alface#pendoamento-precoce-alface-espigando",
+    "alface#queima-de-bordas",
+    "alface#ciclo-e-clima"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "a borda das folhas de dentro da alface tá ficando marrom e seca",
+   "posicao_correta": 1,
+   "top3": [
+    "alface#queima-de-bordas",
+    "alface#mildio",
+    "alface#pendoamento-precoce-alface-espigando"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "tem caramujo comendo a horta de noite",
+   "posicao_correta": 1,
+   "top3": [
+    "alface#pulgoes-lesmas-e-caracois",
+    "milho#lagarta-do-cartucho",
+    "alface#queima-de-bordas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "qual a melhor hora pra molhar a horta?",
+   "posicao_correta": 1,
+   "top3": [
+    "agua_irrigacao#quando-e-como-regar",
+    "alface#irrigacao-de-folhosas",
+    "agua_irrigacao#eficiencia-dos-sistemas-de-irrigacao"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como eu sei se a terra tá precisando de água?",
+   "posicao_correta": 1,
+   "top3": [
+    "agua_irrigacao#teste-do-tato-no-solo",
+    "agua_irrigacao#sinais-de-falta-e-de-excesso-de-agua",
+    "clima_extremo#estiagem-e-veranico"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "vale a pena trocar a mangueira por gotejo?",
+   "posicao_correta": 1,
+   "top3": [
+    "agua_irrigacao#eficiencia-dos-sistemas-de-irrigacao",
+    "tomate#irrigacao-regular",
+    "agua_irrigacao#quando-e-como-regar"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "a previsão diz que vai gear essa semana, o que eu faço?",
+   "posicao_correta": 1,
+   "top3": [
+    "clima_extremo#geada",
+    "clima_extremo#estiagem-e-veranico",
+    "clima_extremo#calor-intenso"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "deu um toró e levou a terra do morro embora",
+   "posicao_correta": 2,
+   "top3": [
+    "clima_extremo#ventos-fortes",
+    "clima_extremo#chuva-forte-e-enxurrada",
+    "solo_adubacao#erosao-e-conservacao-do-solo"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "minha terra tá fraca, como eu melhoro?",
+   "posicao_correta": 1,
+   "top3": [
+    "solo_adubacao#analise-de-solo",
+    "solo_adubacao#erosao-e-conservacao-do-solo",
+    "solo_adubacao#adubacao-organica-e-compostagem"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "posso usar bosta de vaca fresca no canteiro?",
+   "posicao_correta": 1,
+   "top3": [
+    "solo_adubacao#adubacao-organica-e-compostagem",
+    "saberes_tradicionais#biofertilizantes-e-preparados-caseiros",
+    "solo_adubacao#cobertura-morta"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "quanto de veneno eu ponho na bomba?",
+   "posicao_correta": 1,
+   "top3": [
+    "pragas_e_agrotoxicos#receituario-agronomico-e-dose-de-agrotoxico",
+    "pragas_e_agrotoxicos#uso-seguro-e-equipamento-de-protecao",
+    "pragas_e_agrotoxicos#intoxicacao-por-agrotoxico-o-que-fazer"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o que eu faço com as embalagem vazia do veneno?",
+   "posicao_correta": 1,
+   "top3": [
+    "pragas_e_agrotoxicos#embalagens-vazias",
+    "pragas_e_agrotoxicos#uso-seguro-e-equipamento-de-protecao",
+    "pragas_e_agrotoxicos#receituario-agronomico-e-dose-de-agrotoxico"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como pego dinheiro do banco pra comprar uma bomba d'água?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#pronaf-credito-rural",
+    "politicas_publicas#venda-para-programas-publicos-paa-e-pnae",
+    "politicas_publicas#proagro-mais-e-garantia-safra"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como faço pra vender verdura pra merenda da escola?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#venda-para-programas-publicos-paa-e-pnae",
+    "politicas_publicas#caf-cadastro-nacional-da-agricultura-familiar",
+    "politicas_publicas#pronaf-credito-rural"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "perdi a safra toda na seca, tem algum auxílio?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#proagro-mais-e-garantia-safra",
+    "clima_extremo#estiagem-e-veranico",
+    "politicas_publicas#zarc-zoneamento-agricola-de-risco-climatico"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o que é esse tal de CAF que pediram no sindicato?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#caf-cadastro-nacional-da-agricultura-familiar",
+    "politicas_publicas#pronaf-credito-rural",
+    "politicas_publicas#venda-para-programas-publicos-paa-e-pnae"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "plantar na lua minguante dá mais resultado?",
+   "posicao_correta": 1,
+   "top3": [
+    "saberes_tradicionais#plantar-conforme-a-fase-da-lua",
+    "saberes_tradicionais#por-que-respeitar-o-saber-da-roca",
+    "saberes_tradicionais#consorcio-milho-feijao-e-abobora"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "posso jogar cinza do fogão na horta?",
+   "posicao_correta": 1,
+   "top3": [
+    "saberes_tradicionais#cinza-do-fogao-a-lenha",
+    "solo_adubacao#adubacao-organica-e-compostagem",
+    "saberes_tradicionais#biofertilizantes-e-preparados-caseiros"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "plantar milho junto com feijão e abóbora funciona?",
+   "posicao_correta": 1,
+   "top3": [
+    "saberes_tradicionais#consorcio-milho-feijao-e-abobora",
+    "solo_adubacao#adubacao-verde-e-rotacao-de-culturas",
+    "milho#plantio-e-espacamento"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "qual a época certa de plantar o milho aqui na minha cidade?",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#plantio-e-espacamento",
+    "milho#fases-da-cultura-e-necessidade-de-agua",
+    "milho#colheita-e-armazenamento"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como plantar quinoa no cerrado?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "clima_extremo#estiagem-e-veranico",
+    "milho#plantio-e-espacamento",
+    "clima_extremo#ventos-fortes"
+   ]
+  },
+  {
+   "pergunta": "qual o preço da saca de soja hoje?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "feijao#plantio-e-ciclo",
+    "saberes_tradicionais#consorcio-milho-feijao-e-abobora",
+    "clima_extremo#clima-favoravel-a-doencas"
+   ]
+  },
+  {
+   "pergunta": "quando vacinar o gado contra aftosa?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "pragas_e_agrotoxicos#uso-seguro-e-equipamento-de-protecao",
+    "solo_adubacao#analise-de-solo",
+    "clima_extremo#clima-favoravel-a-doencas"
+   ]
+  },
+  {
+   "pergunta": "como criar tilápia em tanque escavado?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "agua_irrigacao#captacao-e-armazenamento-de-agua-da-chuva",
+    "pragas_e_agrotoxicos#embalagens-vazias",
+    "solo_adubacao#adubacao-organica-e-compostagem"
+   ]
+  }
+ ],
+ "E) Híbrido RRF + dicionário + cultura": [
+  {
+   "pergunta": "tem uns bicho comendo a folha do milho e uma serragem molhada no meio",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#lagarta-do-cartucho",
+    "milho#cigarrinha-do-milho-e-enfezamentos",
+    "tomate#traca-do-tomateiro"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "as folhas de baixo do milho tão amarelando em forma de V",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#sinais-de-falta-de-nutrientes",
+    "milho#adubacao-de-cobertura-com-nitrogenio",
+    "milho#doencas-das-folhas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o milho ficou baixinho com folha avermelhada e espiga falhada",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#cigarrinha-do-milho-e-enfezamentos",
+    "milho#lagarta-do-cartucho",
+    "milho#sinais-de-falta-de-nutrientes"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "quando eu jogo a ureia no milho?",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#adubacao-de-cobertura-com-nitrogenio",
+    "milho#fases-da-cultura-e-necessidade-de-agua",
+    "milho#colheita-e-armazenamento"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "posso guardar o milho meio úmido no paiol?",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#colheita-e-armazenamento",
+    "milho#plantio-e-espacamento",
+    "milho#cigarrinha-do-milho-e-enfezamentos"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "a folha do feijão ficou amarelo brilhante e a planta não carrega",
+   "posicao_correta": 1,
+   "top3": [
+    "feijao#mosca-branca-e-mosaico-dourado",
+    "feijao#vaquinha",
+    "tomate#mosca-branca-e-viroses"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "tem um besourinho verde com pinta amarela furando as folhas do feijão",
+   "posicao_correta": 1,
+   "top3": [
+    "feijao#vaquinha",
+    "feijao#mosca-branca-e-mosaico-dourado",
+    "solo_adubacao#adubacao-verde-e-rotacao-de-culturas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o feijão tá soltando as flores com esse calorão",
+   "posicao_correta": 1,
+   "top3": [
+    "clima_extremo#calor-intenso",
+    "feijao#fases-criticas-e-agua",
+    "feijao#plantio-e-ciclo"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "mancha escura afundada na vagem do feijão",
+   "posicao_correta": 1,
+   "top3": [
+    "feijao#doencas-antracnose-mancha-angular-e-ferrugem",
+    "feijao#fases-criticas-e-agua",
+    "feijao#vaquinha"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "uma lagartona enorme comeu as folhas da mandioca em 3 dias",
+   "posicao_correta": 1,
+   "top3": [
+    "mandioca#mandarova",
+    "milho#lagarta-do-cartucho",
+    "mandioca#acaros-e-bacteriose"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "posso comer mandioca brava cozida?",
+   "posicao_correta": 1,
+   "top3": [
+    "mandioca#mandioca-brava-e-seguranca-dos-alimentos",
+    "mandioca#plantio-e-manivas",
+    "mandioca#colheita"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "a raiz da mandioca apodreceu depois de muita chuva",
+   "posicao_correta": 3,
+   "top3": [
+    "mandioca#colheita",
+    "mandioca#plantio-e-manivas",
+    "mandioca#agua-e-tolerancia-a-seca"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "que pedaço da rama eu uso pra plantar aipim?",
+   "posicao_correta": 1,
+   "top3": [
+    "mandioca#plantio-e-manivas",
+    "mandioca#colheita",
+    "mandioca#agua-e-tolerancia-a-seca"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "meu tomate tá com o fundo preto",
+   "posicao_correta": 1,
+   "top3": [
+    "tomate#podridao-apical-fundo-preto",
+    "tomate#irrigacao-regular",
+    "alface#queima-de-bordas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "as folhas do tomate ficaram pretas e moles de um dia pro outro com essa garoa fria",
+   "posicao_correta": 3,
+   "top3": [
+    "tomate#pinta-preta",
+    "tomate#irrigacao-regular",
+    "tomate#requeima"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "mancha com rodinhas tipo alvo na folha velha do tomate",
+   "posicao_correta": 1,
+   "top3": [
+    "tomate#pinta-preta",
+    "tomate#requeima",
+    "tomate#mosca-branca-e-viroses"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "tem uns caminhos branquinhos dentro da folha do tomate",
+   "posicao_correta": 1,
+   "top3": [
+    "tomate#traca-do-tomateiro",
+    "tomate#mosca-branca-e-viroses",
+    "tomate#irrigacao-regular"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o tomate tá rachando",
+   "posicao_correta": 2,
+   "top3": [
+    "tomate#podridao-apical-fundo-preto",
+    "tomate#irrigacao-regular",
+    "tomate#requeima"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "minha alface espigou e ficou amarga",
+   "posicao_correta": 1,
+   "top3": [
+    "alface#pendoamento-precoce-alface-espigando",
+    "alface#ciclo-e-clima",
+    "alface#queima-de-bordas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "a borda das folhas de dentro da alface tá ficando marrom e seca",
+   "posicao_correta": 1,
+   "top3": [
+    "alface#queima-de-bordas",
+    "alface#pendoamento-precoce-alface-espigando",
+    "alface#mildio"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "tem caramujo comendo a horta de noite",
+   "posicao_correta": 1,
+   "top3": [
+    "alface#pulgoes-lesmas-e-caracois",
+    "clima_extremo#geada",
+    "alface#queima-de-bordas"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "qual a melhor hora pra molhar a horta?",
+   "posicao_correta": 1,
+   "top3": [
+    "agua_irrigacao#quando-e-como-regar",
+    "alface#irrigacao-de-folhosas",
+    "tomate#irrigacao-regular"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como eu sei se a terra tá precisando de água?",
+   "posicao_correta": 1,
+   "top3": [
+    "agua_irrigacao#teste-do-tato-no-solo",
+    "solo_adubacao#analise-de-solo",
+    "solo_adubacao#cobertura-morta"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "vale a pena trocar a mangueira por gotejo?",
+   "posicao_correta": 1,
+   "top3": [
+    "agua_irrigacao#eficiencia-dos-sistemas-de-irrigacao",
+    "tomate#irrigacao-regular",
+    "saberes_tradicionais#biofertilizantes-e-preparados-caseiros"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "a previsão diz que vai gear essa semana, o que eu faço?",
+   "posicao_correta": 1,
+   "top3": [
+    "clima_extremo#geada",
+    "clima_extremo#chuva-forte-e-enxurrada",
+    "milho#lagarta-do-cartucho"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "deu um toró e levou a terra do morro embora",
+   "posicao_correta": 1,
+   "top3": [
+    "solo_adubacao#erosao-e-conservacao-do-solo",
+    "clima_extremo#ventos-fortes",
+    "solo_adubacao#cobertura-morta"
+   ],
+   "forca": "media"
+  },
+  {
+   "pergunta": "minha terra tá fraca, como eu melhoro?",
+   "posicao_correta": 1,
+   "top3": [
+    "solo_adubacao#analise-de-solo",
+    "solo_adubacao#erosao-e-conservacao-do-solo",
+    "solo_adubacao#cobertura-morta"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "posso usar bosta de vaca fresca no canteiro?",
+   "posicao_correta": 1,
+   "top3": [
+    "solo_adubacao#adubacao-organica-e-compostagem",
+    "saberes_tradicionais#por-que-respeitar-o-saber-da-roca",
+    "solo_adubacao#analise-de-solo"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "quanto de veneno eu ponho na bomba?",
+   "posicao_correta": 1,
+   "top3": [
+    "pragas_e_agrotoxicos#receituario-agronomico-e-dose-de-agrotoxico",
+    "pragas_e_agrotoxicos#uso-seguro-e-equipamento-de-protecao",
+    "pragas_e_agrotoxicos#caldas-e-preparados-alternativos"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o que eu faço com as embalagem vazia do veneno?",
+   "posicao_correta": 1,
+   "top3": [
+    "pragas_e_agrotoxicos#embalagens-vazias",
+    "pragas_e_agrotoxicos#receituario-agronomico-e-dose-de-agrotoxico",
+    "pragas_e_agrotoxicos#uso-seguro-e-equipamento-de-protecao"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como pego dinheiro do banco pra comprar uma bomba d'água?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#pronaf-credito-rural",
+    "politicas_publicas#venda-para-programas-publicos-paa-e-pnae",
+    "politicas_publicas#proagro-mais-e-garantia-safra"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como faço pra vender verdura pra merenda da escola?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#venda-para-programas-publicos-paa-e-pnae",
+    "mandioca#colheita",
+    "politicas_publicas#caf-cadastro-nacional-da-agricultura-familiar"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "perdi a safra toda na seca, tem algum auxílio?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#proagro-mais-e-garantia-safra",
+    "politicas_publicas#pronaf-credito-rural",
+    "politicas_publicas#zarc-zoneamento-agricola-de-risco-climatico"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "o que é esse tal de CAF que pediram no sindicato?",
+   "posicao_correta": 1,
+   "top3": [
+    "politicas_publicas#caf-cadastro-nacional-da-agricultura-familiar",
+    "politicas_publicas#pronaf-credito-rural",
+    "solo_adubacao#analise-de-solo"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "plantar na lua minguante dá mais resultado?",
+   "posicao_correta": 1,
+   "top3": [
+    "saberes_tradicionais#plantar-conforme-a-fase-da-lua",
+    "clima_extremo#estiagem-e-veranico",
+    "saberes_tradicionais#biofertilizantes-e-preparados-caseiros"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "posso jogar cinza do fogão na horta?",
+   "posicao_correta": 1,
+   "top3": [
+    "saberes_tradicionais#cinza-do-fogao-a-lenha",
+    "solo_adubacao#cobertura-morta",
+    "solo_adubacao#adubacao-organica-e-compostagem"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "plantar milho junto com feijão e abóbora funciona?",
+   "posicao_correta": 1,
+   "top3": [
+    "saberes_tradicionais#consorcio-milho-feijao-e-abobora",
+    "solo_adubacao#adubacao-verde-e-rotacao-de-culturas",
+    "clima_extremo#estiagem-e-veranico"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "qual a época certa de plantar o milho aqui na minha cidade?",
+   "posicao_correta": 1,
+   "top3": [
+    "milho#plantio-e-espacamento",
+    "milho#doencas-das-folhas",
+    "milho#colheita-e-armazenamento"
+   ],
+   "forca": "forte"
+  },
+  {
+   "pergunta": "como plantar quinoa no cerrado?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "milho#plantio-e-espacamento",
+    "clima_extremo#estiagem-e-veranico",
+    "clima_extremo#ventos-fortes"
+   ]
+  },
+  {
+   "pergunta": "qual o preço da saca de soja hoje?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "saberes_tradicionais#plantar-conforme-a-fase-da-lua",
+    "feijao#mosca-branca-e-mosaico-dourado",
+    "feijao#plantio-e-ciclo"
+   ]
+  },
+  {
+   "pergunta": "quando vacinar o gado contra aftosa?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "solo_adubacao#adubacao-organica-e-compostagem",
+    "pragas_e_agrotoxicos#uso-seguro-e-equipamento-de-protecao",
+    "solo_adubacao#analise-de-solo"
+   ]
+  },
+  {
+   "pergunta": "como criar tilápia em tanque escavado?",
+   "fora_do_escopo": true,
+   "forca": "fraca",
+   "top3": [
+    "pragas_e_agrotoxicos#embalagens-vazias",
+    "agua_irrigacao#captacao-e-armazenamento-de-agua-da-chuva",
+    "solo_adubacao#adubacao-organica-e-compostagem"
+   ]
+  }
+ ]
+}
